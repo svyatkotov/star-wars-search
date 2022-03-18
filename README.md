@@ -1,2 +1,3 @@
 # star-wars-search
-Приложение для поиска персонажей, кораблей и планет из Звездных войн с помощью Star Wars API с возможностью выбора категории поиска.
+
+An application for searching characters, ships and planets from Star Wars using the Star Wars API with the ability to select a search category.
